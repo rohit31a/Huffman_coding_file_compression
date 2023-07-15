@@ -1,8 +1,8 @@
 
 
-# ZipItNow - Huffman Coding File Compression
+# Huffman Coding File Compression
 
-ZipItNow is a project based on Huffman Coding, a lossless compression algorithm implemented in C++. It allows you to compress and decompress text files efficiently.
+It is a project based on Huffman Coding, a lossless compression algorithm implemented in C++. It allows you to compress and decompress text files efficiently.
 
 ## How it Works
 
@@ -56,9 +56,5 @@ This project does not have any external dependencies. It is implemented using st
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 --
